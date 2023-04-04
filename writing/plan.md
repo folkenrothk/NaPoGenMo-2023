@@ -5,6 +5,14 @@
 TODO: Write a 3-5 sentence summary of the project you plan to undertake, including core concepts,
 technologies, and forms you plan to engage with.
 
+A poetic generated memoir.
+
+Transitions
+Sandbox 
+From the root
+
+nick st. pierre
+
 ## Peer works
 
 TODO: Identify up to 3 works that you see as similar to what you're planning to do. If possible,
