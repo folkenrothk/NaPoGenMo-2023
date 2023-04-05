@@ -66,27 +66,35 @@ Decision-making - The process of making informed and effective decisions based o
 
 ```
 
-* User experience (UX) - The experience of using software from the perspective of the end user, similar to how humans experience technology and interact with it in their daily lives.
+* `User experience (UX)` - The experience of using software from the perspective of the end user, similar to how humans experience technology and interact with it in their daily lives.
 
+* `Accessibility` - The ability of software to be used by people with different abilities and needs, similar to how humans have different needs and abilities that must be accommodated in various situations.
 
-* Accessibility - The ability of software to be used by people with different abilities and needs, similar to how humans have different needs and abilities that must be accommodated in various situations.
-* Human-computer interaction (HCI) - The study of how humans interact with computers and technology, and how software can be designed to better accommodate human behavior and preferences.
+* `Human-computer interaction (HCI)` - The study of how humans interact with computers and technology, and how software can be designed to better accommodate human behavior and preferences.
 
-* Artificial intelligence (AI) - The development of software that can simulate human intelligence and behavior, and potentially improve the lives of humans in various fields.
-* Natural language processing (NLP) - The development of software that can understand and interpret human language, similar to how humans use language to communicate and interact with each other.
+* `Artificial intelligence (AI)` - The development of software that can simulate human intelligence and behavior, and potentially improve the lives of humans in various fields.
+
+* `Natural language processing (NLP)` - The development of software that can understand and interpret human language, similar to how humans use language to communicate and interact with each other.
 
 
 ## Misc 
-### General
+### Aging
+* `Beta testing` - The process of testing a software product with a select group of users before releasing it to the wider public. This can be seen as similar to how teenagers may test out new trends or ideas within their friend group before they become more widely adopted.
+* `Version control` - A system for managing changes to code over time, allowing developers to track and collaborate on changes and transitions in the codebase.
+* `Continuous learning` - A mindset of ongoing growth and development, both within and outside of the field of software development, similar to how adults may seek to continue learning and expanding their knowledge and skills throughout their lives.
+* `Modularity` - Refers to the practice of breaking code into smaller, more manageable modules, similar to how breaking down complex tasks into smaller, more manageable steps can contribute to overall productivity and wellbeing.
+* `Continuous integration and delivery` - Refers to the practice of continuously testing and delivering code updates, similar to how regular maintenance and check-ins can help maintain good health and wellbeing.
+
 ### Family/ Legacy
+* `Legacy code` - Code that was written a long time ago and may no longer be relevant or useful, similar to how adults may look back on past experiences or decisions and realize they need to move on and make changes.
+* `Inheritance` - In object-oriented programming, inheritance refers to the ability of a child class to inherit the properties and methods of its parent class.
+
 ### Illness
 * `Resilient` - used to describe code that can recover quickly from errors or interruptions, and also used to describe a person's ability to recover from illness or adversity.
 * `Symptomatic` - used to describe code that is indicative of underlying issues or errors, and also used to describe the presence of symptoms in a person's health.
 * `Diagnosis` - used to describe the process of identifying the underlying cause of a problem or issue, and also used to describe the process of identifying the underlying cause of a person's health issues.
 * `Debugging` - used to describe the process of identifying and fixing errors in code, and also used to describe the process of identifying and treating the root causes of a person's health issues.
 * `Optimization` - used to describe the process of improving the efficiency and performance of code, and also used to describe the process of improving a person's overall health and wellness.
-
-
 #### AVM
 ```
 what are the many options of the words that make up the acronym AVM
@@ -115,15 +123,7 @@ These are just a few examples of the many different options for the words that m
 
 
 ### Other
-
-* `Beta testing` - The process of testing a software product with a select group of users before releasing it to the wider public. This can be seen as similar to how teenagers may test out new trends or ideas within their friend group before they become more widely adopted.
-* `Version control` - A system for managing changes to code over time, allowing developers to track and collaborate on changes and transitions in the codebase.
-* `Legacy code` - Code that was written a long time ago and may no longer be relevant or useful, similar to how adults may look back on past experiences or decisions and realize they need to move on and make changes.
-* `Inheritance` - In object-oriented programming, inheritance refers to the ability of a child class to inherit the properties and methods of its parent class.
-* `Continuous learning` - A mindset of ongoing growth and development, both within and outside of the field of software development, similar to how adults may seek to continue learning and expanding their knowledge and skills throughout their lives.
 * `Agile development` - An iterative and collaborative approach to software development that emphasizes adaptability, continuous improvement, and responding to change, similar to how adults may approach personal or professional growth and development.
 * `Scalability` - The ability of a software system to handle increased usage or demand over time, similar to how adults may need to adapt and transition to new roles, responsibilities, or challenges in their personal or professional lives.
 * `Lasagna code` - A term used to describe code that is excessively layered and difficult to understand, similar to the way a lasagna has many layers.
 * `Code spaghetti` - Another term used to describe messy and convoluted code that is difficult to follow, similar to the way a plate of spaghetti can be messy and difficult to eat.
-* `Modularity` - Refers to the practice of breaking code into smaller, more manageable modules, similar to how breaking down complex tasks into smaller, more manageable steps can contribute to overall productivity and wellbeing.
-* `Continuous integration and delivery` - Refers to the practice of continuously testing and delivering code updates, similar to how regular maintenance and check-ins can help maintain good health and wellbeing.
