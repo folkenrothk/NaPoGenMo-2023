@@ -2,28 +2,10 @@
 
 ## Summary
 
-TODO: Write a 3-5 sentence summary of the project you plan to undertake, including core concepts,
-technologies, and forms you plan to engage with.
-
-A poetic generated memoir.
-
-Transitions
-Sandbox 
-From the root
-
-nick st. pierre
-
-nostalgia in method, in cmpsc 
-mess with time 
-John Cage, Mark 4
-charles hartman, digital muse
+I am planning to generate a poetic memoir. This will be a deliverable of both a website with the prompts that are regenerated upon retrieval and the pdf version that captures a run of the website (for word count and artifact purposes). I am looking to explore themes of youth, growing up, legacy, nostalgia, and transitions in to a new life. I want to do this by using various methods for self expression correlated with the theme of the chapter (e.g. permutations or phonetic with youth, chat completion for discussing the unknown future).
 
 
 ## Peer works
-
-TODO: Identify up to 3 works that you see as similar to what you're planning to do. If possible,
-highlight particular pages, passages, or sections of those works with brief notes summarizing how
-they motivate this project.
 
 1. _`#!` - Nick Montfort_
     
@@ -35,7 +17,7 @@ they motivate this project.
 
 3. _`Technelegy` - Sasha Stiles_
 
-
+    This book is here for the content Stiles focuses on. Their work incorporating post-humanism and computer language while speaking towards the truth and core of the human condition are inspiring for my own. I picked out the pieces "Anthropocene Epic"(28-29), "Discontent Creators" (34), "Legacy"(37), "Imitations of Immortality"(76-77), "Portrait of the Poet as a Brief History of Humanity"(137). The chapter setup is also very parallel to what I desire. I also appreciate their use of emphasis, italics and bold, to represent the difference between prompts and output.
 
 
 ## Challenges

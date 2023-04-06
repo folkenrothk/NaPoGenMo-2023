@@ -37,12 +37,21 @@
 * _Charles O. Hartman_
     - [Virtual Muse: experiments in computer poetry](./inspiration/Wesleyan_Poetry_Virtual_Muse_Experiments_in_Computer_Poetry.pdf)
 
+* _John Cage_
+    - 4'33"
+
+## Methodology
+
+* Nick St. Pierre
+    - use tables for navigating DALLE
+
 ### CLASS BOOKS
 * Lillian-Yvonne Bertram
     - `Travesty Generator`
 
 * Nick Monfort
     - `#!`
+
 
 * Sasha Stiles
     - `Technelegy`
