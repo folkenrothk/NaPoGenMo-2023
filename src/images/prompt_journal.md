@@ -9,13 +9,17 @@
 - variation (no image input)
 - variation (last variation output) 
 
-## work001 [1, ]
+## work001 [1, 2]
 
 - black and white pen sketch wide shot user
 - black and white pen sketch full paper user
 * black and white pen sketch full user ** <!-- is this what i look like? -->
-* black and white pen sketch full anonymous user
-* variation (anon user prompt)
+* black and white pen sketch full anonymous user 
+- variation (anon user prompt)
 
 ## work002 [1, 2]
-* **black and white pen sketch wide shot folkenroth**
+* black and white pen sketch wide shot folkenroth (twice)
+
+## work003 []
+
+- hello world pen sketch black and white
