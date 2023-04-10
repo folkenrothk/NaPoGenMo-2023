@@ -22,4 +22,9 @@
 
 ## work003 []
 
-- hello world pen sketch black and white
+- hello world pen sketch black and white ((2x))
+* black and white pen sketch hello world code
+- black and white pen sketch first words first code
+- black and white pen sketch first word
+* black and white pen sketch phonetics 
+- black and white pen sketch phonetics hello world
