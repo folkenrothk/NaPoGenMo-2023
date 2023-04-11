@@ -1,4 +1,4 @@
-# DALLE 2
+# DALLE 2 [files now saved off repo]
 
 ## Title Cover
 - title cover black and white transitions
@@ -51,4 +51,21 @@
 
 *  black and white pen sketch stairwell 
 
+## Legacy Code
+- black and white pen sketch QR code ancient legacy handed down
+* black and white pen sketch QR code ancient legacy
 
+## Rebellious Code
+* black and white pen sketch rellious code
+- black and white pen sketch rebellious code
+- black and white pen sketch rebel rebellious chaotic code
+
+## Debugging
+- black and white pen sketch debugging
+* black and white pen sketch tiny bug
+
+## Implementation
+>black and white pen sketch transitions
+>black and white pen sketch next step
+>black and white pen sketch implementation
+>black and white pen sketch new home
