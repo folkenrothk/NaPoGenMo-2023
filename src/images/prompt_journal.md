@@ -10,6 +10,11 @@
 - black and white pen sketch title image transitions UX
 - black and white pen sketch image of transitions "UX" memoir 
 
+### inner cover / DALLE scares me
+* black and white pen sketch Kate Folkenroth user experience
+* black and white pen sketch user experience of Kate Folkenroth
+* black and white pen sketch user experience of Zoe White
+
 ## Test Sketches
 - [black and white pen sketch peeled orange](./img/testSketches/1680882132.63017.png)
 - [black and white pen sketch light bulb](./img/testSketches/1680882248.874082.png)
@@ -41,4 +46,9 @@
 - black and white pen sketch first word
 * black and white pen sketch phonetics 
 - black and white pen sketch phonetics hello world
+
+## STAIRWELL
+
+*  black and white pen sketch stairwell 
+
 
