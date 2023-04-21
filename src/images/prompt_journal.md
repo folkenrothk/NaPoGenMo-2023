@@ -36,7 +36,7 @@
 - variation (anon user prompt)
 
 ### work002 [1, 2]
-* black and white pen sketch wide shot folkenroth (twice)
+* black and white pen sketch wide shot folkenroth (multiple x7)
 
 ### work003-004 [1, 1]
 
@@ -60,6 +60,53 @@
 - black and white pen sketch rebellious code
 - black and white pen sketch rebel rebellious chaotic code
 
+
+### WORKS
+- black and white pen sketch child diary entry
+- black and white pen sketch child diary entry kindergarten
+- black and white pen sketch child diary entry first grade 
+- black and white pen sketch child diary entry second grade 
+- black and white pen sketch child diary entry third grade 
+- black and white pen sketch child diary entry fourth grade 
+
+- black and white pen sketch diary entry kindergarten 
+- black and white pen sketch diary entry first grade 
+- black and white pen sketch diary entry second grade 
+- black and white pen sketch diary entry third grade 
+- black and white pen sketch diary entry fourth grade 
+- black and white pen sketch diary entry fifth grade 
+- black and white pen sketch diary entry sixth grade 
+- black and white pen sketch diary entry seventh grade 
+- black and white pen sketch diary entry eighth grade 
+- black and white pen sketch diary entry freshman
+- black and white pen sketch diary entry sophomore
+- black and white pen sketch diary entry junior
+- black and white pen sketch diary entry senior
+- black and white pen sketch diary entry college
+
+- black and white pen sketch code
+    > binary
+    > java
+    > javascript
+    > R
+    > python
+    > stata
+    > html
+    > css
+    > ruby --
+    > C# 
+    > C --
+    > C++ -- 
+    > swift
+    > rust
+    > perl
+    > PHP
+    > golang
+
+
+
+
+
 ## Debugging
 - black and white pen sketch debugging
 * black and white pen sketch tiny bug
@@ -69,3 +116,17 @@
 >black and white pen sketch next step
 >black and white pen sketch implementation
 >black and white pen sketch new home
+
+### work007
+
+- black and white pen sketch google search 
+- black and white pen sketch browser internet search bar search engine 
+- black and white pen sketch browser internet search bar search engine 2:3
+- black and white pen sketch location pin
+- black and white pen sketch pin location digital map digital
+
+### work008
+
+- black and white pen sketch cosmos
+- black and white pen sketch universe stars cosmos expansive
+* black and white pen sketch universe galaxy stars

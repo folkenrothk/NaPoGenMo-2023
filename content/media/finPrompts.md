@@ -18,3 +18,4 @@
 | ![helcollo](./w004-01.png) | ""black and white pen sketch phonetics""| |
 | ![stairwell](./w005-1.png) | ""black and white pen sketch stairwell""| |
 | ![childWork](./w006-1.png) | ""black and white pen sketch user experience of Zoe White"" | |
+| ![cosmos](./w008-1.png) | ""black and white pen sketch universe galaxy stars"" | |
