@@ -26,9 +26,13 @@ X. H legacy
 X. inheritance
 X.
 X.
-X. 
-X. Folk
-X. enroth
+X. FOTO folkenroth
+X. Fo
+X. lk
+X. en 
+X. ro
+X. th
+
 ## rebellious code
 X. H rebel
 
@@ -46,6 +50,9 @@ x. cont.
 X. FOTO stairs
 
 ## implementation
+
+X. where am i 
+X. the void 
 
 ## end pages
 X. Author note with picture 
