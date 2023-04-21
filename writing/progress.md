@@ -12,15 +12,19 @@ Progress has been satisfactory to this point in time. The pieces I have created 
 
 1. What are your thoughts about wanting to see the code or know the methods that were used to generate each piece?
 
+I think that adding the code shows how the images and the text got to how it was.  I think that is almost acts like the building block of this memoir kind of like the experiences of life. I would want to see the methods and code for each peice. 
+
 2. What themes of memoir do you expect? Are any not present in this current piece?
+
+I do like how the project is broken up into diffrent segments of life so far.  I think this speaks to how you have developed as a person.  The only thing that I can think of to add is maybe a section where you show your key take aways from what you have experienced in life.  Another think that could be cool to see is a section of "future work" where you show some how where you see yourself in say 10 years.  While not exsactly consistant with the typical memoir theme, I think that this section could very diffrent from the rest.
 
 3. What speaks to you more? Are the pictures too much of a focus or feels unbalanced with the text? 
 
+I do enjoy the pictures that are included in the work.  To me it feels like the ones with the photos are stronger memories to you which speaks to something.  I would keep the pictures personally.
 
 ### Unstructured peer feedback
 
-TODO: Dedicate this space to a summative comment from a peer. This may require you to share
-this repository (briefly) with this person for them to replace this paragraph with the comment.
+I do enjoy interpreting the work so far and it does intrege me, I would continue to develop these ideas.  Breaking down the segments and experiences in your life are something that is hard to convey in a format like this yet I feel that you are still effectively doing this task. I think that exporing the previously mentioned ideas would be at least something worth looking into. I am enjoying the work thus far.
 
 ## Persisting challenges
 
