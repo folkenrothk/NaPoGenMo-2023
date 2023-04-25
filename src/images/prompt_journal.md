@@ -55,6 +55,19 @@
 - black and white pen sketch QR code ancient legacy handed down
 * black and white pen sketch QR code ancient legacy
 
+* black and white pen sketch the Architects, the Healers, and the Sage
+
+- black and white pen sketch parent child computer code
+* black and white pen sketch computer diagram family tree computer hierachy parent-child
+
+* black and white pen sketch old oak tree  
+* black and white pen sketch fresh baked bread
+- black and white pen sketch old saved photographs worn and torn
+* black and white pen sketch of polaroids worn tattered weathered sketched black and white
+- black and white pen sketch tiny child baby hand
+* black and white pen sketch tiny child baby hand reaching
+* black and white pen sketch empty field horizon   
+
 ## Rebellious Code
 * black and white pen sketch rellious code
 - black and white pen sketch rebellious code
@@ -93,23 +106,33 @@
     > stata
     > html
     > css
-    > ruby --
     > C# 
-    > C --
-    > C++ -- 
     > swift
     > rust
     > perl
     > PHP
     > golang
 
+    > Fortran
+    > COBOL
+    > PASCAL
+    > SQL
+    
+    > C --
+    > C++ -- 
+    > ruby --
 
-
+- black and white pen sketch code oldest computer
+- black and white pen sketch code newest computer
+- black and white pen sketch code 
 
 
 ## Debugging
 - black and white pen sketch debugging
 * black and white pen sketch tiny bug
+
+* black and white pen sketch brain surgery 
+* black and white pen sketch CPU
 
 ## Implementation
 >black and white pen sketch transitions

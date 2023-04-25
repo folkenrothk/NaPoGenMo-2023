@@ -30,7 +30,7 @@ def generate_prompt(**kwargs) -> str:
 def make_edit(**kwargs) -> str:
     response = openai.Image.create_edit(
         image = open(kwargs["src_img"], "rb"),
-        mask = open("img/mask.png", "rb"),
+        mask = open("mask.png", "rb"),
         prompt = kwargs["prompt"],
         n = 1,
         size = "1024x1024"
@@ -72,11 +72,11 @@ def main():
         src_img = input("Enter path to source image: ")
     if prompt.lower() == "q" or src_img.lower() == "q":
         exit()
-    try:
-        result = actions[action](prompt = prompt, src_img = src_img)
-        download(url = result)
-    except:
-        print("[ERROR] Something went wrong...")
+#    try:
+    result = actions[action](prompt = prompt, src_img = src_img)
+    download(url = result)
+    #except:
+    #    print("[ERROR] Something went wrong...")
 
 if __name__ == "__main__":
     main()

@@ -52,7 +52,7 @@ X. FOTO stairs
 ## implementation
 
 X. where am i 
-X. the void 
+X. who am i 
 
 ## end pages
 X. Author note with picture 
