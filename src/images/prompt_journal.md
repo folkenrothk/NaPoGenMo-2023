@@ -153,3 +153,22 @@
 - black and white pen sketch cosmos
 - black and white pen sketch universe stars cosmos expansive
 * black and white pen sketch universe galaxy stars
+
+
+///
+
+## additions
+
+# stair well
+- black and white pen sketch stair well ghosts memory echo
+* black and white pen sketch stairwell ghosts stairs memory echo well
+
+# flower
+- black and white pen sketch bruised not broken 
+* black and white pen sketch bruised not broken flower
+
+# final image?
+- black and white pen sketch deja vu
+- black and white pen sketch deja vu surreal
+- black and white pen sketch deja vu dreamlike
+* black and white pen sketch deja vu life folkenroth 

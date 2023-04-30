@@ -8,14 +8,20 @@ const loadFile = (filename) => {
     markov.addText(text);
 }
 
-loadFile("markov/body.txt");
-loadFile("markov/gravity.txt");
-loadFile("markov/fallingTrees.txt");
-loadFile("markov/kitchen.txt");
 
-sentences = markov.generate(8);
+loadFile("deja/avm.txt");
+loadFile("deja/implement.txt");
+loadFile("deja/nlp.txt");
+loadFile("deja/parentEtAl.txt");
+loadFile("deja/rebel.txt");
+loadFile("deja/sandbox.txt");
+loadFile("deja/stairwell.txt");
 
-fs.writeFile("../../content/work016.txt", sentences.join(' '), function(err) {
+
+
+sentences = markov.generate(23);
+
+fs.writeFile("../../content/work023.txt", sentences.join(' '), function(err) {
     if(err) {
         return console.log(err);
     }
