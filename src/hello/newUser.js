@@ -3,7 +3,8 @@ const { waitForDebugger } = require('inspector');
 let rita = require('rita');
 
 
-const loadFile = (filename) => {
+
+loadFile = (filename) => {
     let text = fs.readFileSync(filename, 'utf-8');
     return text;
 }
