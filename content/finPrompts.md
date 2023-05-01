@@ -2,11 +2,11 @@
 
 | Title & Image | Prompt | Notes |
 | ------------- | ------ | ----- |
-| ![title](./title.png)| ""black and white pen sketch title cover "UX"""| |
-| ![inner-cover](./titleUX.png) | ""black and white pen sketch Kate Folkenroth user experience"" | |
-| ![me?](./titlePersona.png) | ""black and white pen sketch user experience of Kate Folkenroth""| |
-| ![sandbox](./u1-Sandbox.png)| ""black and white pen sketch child's sandbox"" | |
-| ![bug](./uX-Debug.png) | ""black and white pen sketch tiny bug"" | |
+| ![title](./0-general/title.png)| ""black and white pen sketch title cover "UX"""| |
+| ![inner-cover](./0-general/titleUX.png) | ""black and white pen sketch Kate Folkenroth user experience"" | |
+| ![me?](./0-general/titlePersona.png) | ""black and white pen sketch user experience of Kate Folkenroth""| |
+| ![sandbox](./1-sandbox/u1-Sandbox.png)| ""black and white pen sketch child's sandbox"" | |
+| ![bug](./5-debug/uX-Debug.png) | ""black and white pen sketch tiny bug"" | |
 | ![todo-list](./uX-Implement.png) | ""black and white pen sketch transitions""| | 
 | ![legacy-QR](./uX-Legacy.png) | ""black and white pen sketch QR code ancient legacy"" | |
 | ![rebel-code](./uX-Rebellious.png) | ""black and white pen sketch rellious code"" | | 
