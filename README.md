@@ -1,70 +1,29 @@
-# Course Project
+# NaPoGenMo 2023  --  UX by Kate Folkenroth
+  _Transferred & derived from a course capstone project for INFM 350 at Allegheny College_
 
-> [O]ne of poetry’s functions is to make us aware, with a fresh intensity, 
-> of our relation to the language which constitutes so much of our relation 
-> to the world.
->
-> Charles O. Hartman, _Virtual Muse_
+> [Final Product: UX](https://drive.google.com/file/d/1rCiSIOaggu7o_aKaT8zUHjyREQKJIF_-/view?usp=sharing)
+> 
+> 
+> [Work In Progress: Image & Large File Storage](https://drive.google.com/drive/folders/1sNS6QwddzXbbRsfdjXAeMfWD8FCsRRzL?usp=sharing)
+> 
 
-## Summary
+## Description
 
-In this final course project, you will pursue some combination of methods and approaches 
-that we've used throughout the semester and/or elaborate your own in relation to the many 
-ideas that our readings, discussions, and creative works have introduced. There are two (2) 
-major parts to this assignment with a each comprising sub-parts which will allow you to share 
-and reflect on your work iteratively throughout the process of creating it.
+  A computationally generated memoir for exploring themes of youth and growing up. This reflects a vague tension between human maturity and technological development.
 
-Please note the various dates below, as there are some interim due dates for progress reports
-and bringing unfinished, in-progress work. These are important as they are chances for you to
-show and discuss your ideas and approches. I trust and hope that these requirements are as generative
-as they are evaluative.
+  Inspired by many works, I bring this piece into the conversation of computationally created works as well as traditionally recognized poetry. I especially want to articulate the inspiration from `"#!" by Nick Montfort`, `"Travesty Generator" by Lillian-Yvonne Bertram`, `"Technelegy" - Sasha Stiles`, and `"You'll Come Back to Yourself" by Michaela Angemeer` .
 
-## Goals
+## File Structure
 
-* develop a long-form work rooted in a single concept or cluster of closely-related concepts
-* closely explore the opportunities and/or limitations of a generative method or approach
-* reflect on the efficacy, value, and impact of the technologies involved and their implications for creativity
-* relate your work to others that we have studied this semester in an effort to situate your efforts
+| Folder Name | Notes  |
+| ----------- | ------ |
+| content | A collection of the final pieces and images |
+| src | The code that was used to generate pieces |
+| writing | Planning and exploration of themes/ content |
 
-But really, produce a work of:
+## Acknowledgements
 
-*  _no fewer than_ 30,000 words
-* _no more than_ 49,999 words
-* is related to `3` of the works we've read this semester
-* is in PDF or other non-Markdown form, with
-  * a title page
-  * a Table of Contents (if appropriate)
-  * a list of references (if appropriate)
+- @dluman | Thank you for being my mentor. You've only continued to encourage me to be bold and creative in both this sphere of 1s and 0s and out in the world. I hope to continue to generate work I am proud of to share with you. 
 
-### Outcomes
+- @PaigeCD | Best tech colleague a coder could ask for. Thanks for sitting next to me on the first day and continuing to deal with my never ending questions. Can't wait to see what you do next!
 
-(These are derived from, but supercede the [NaPoGenMo](https://github.com/NaPoGenMo/NaPoGenMo2023) guidelines.)
-
-* the above-referenced work
-* (Optional) submission to this year's [NaPoGenMo](https://github.com/NaPoGenMo/NaPoGenMo2023) effort
-
-### Code
-
-You are largely on your own for this project; I provide no "starter" here. This means you area free to innovate and
-include tools we _haven't_ used to date or to bring tools in from other projects. The only rule is that:
-
-* you must place your source code in the `src` directory
-
-### Writing
-
-There are three (3) writing assignments accompanying this project.
-
-|Due Date |Description |Document |
-|:--------|:-----------|:--------|
-|7 April  |Project Plan |[writing/plan.md](writing/plan.md) |
-|19 April |Progress Report |[writing/progress.md](writing/progress.md) |
-|9 May    |Final reflection|[writing/reflection.md](writing/reflection.md) |
-
-### Workshops and schedule
-
-This assignment honors our original routine of Wednesday informal feedback and Friday formal feedback except that, unlike
-previous weeks these are not optional (i.e. subject to the evaluation grid in the [Course Contract](https://github.com/allegheny-college-infm-350-spr-2023/course-materials/blob/main/CODE_OF_CONDUCT.md). There is at least one change, so to enumerate expectations:
-
-* you will be given dates on which we will discuss your work (during Friday sessions)
-* anyone not being workshopped _must_ respond to the work discussed during Friday sessions
-* missing more than one (1) of these posts will constitute an incomplete final project
