@@ -4,6 +4,13 @@
 
 I am planning to generate a poetic memoir. This will be a deliverable of both a website with the prompts that are regenerated upon retrieval and the pdf version that captures a run of the website (for word count and artifact purposes). I am looking to explore themes of youth, growing up, legacy, nostalgia, and transitions in to a new life. I want to do this by using various methods for self expression correlated with the theme of the chapter (e.g. permutations or phonetic with youth, chat completion for discussing the unknown future).
 
+### Tentative Title
+
+ _UX_
+
+### Progress Report 4.14.2023
+
+Progress has been satisfactory to this point in time. The pieces I have created and compiled so far are ready to be presented. I may still reorganize these pieces as I add more. I am having difficulties just with having time and internet access to code at the moment from travel. However, I have been planning and writing down items to work with to create more pieces. I am concerned about achieving the word count but am excited to still attempt to achieve this bar and not needing to count pictures. It has been enjoyable to follow my interests and be able to follow the sparks of creativity. The multiple shorter pieces really captured what I've been intending to present. I need to pursue larger bodies or sections of work like stairwell and my use of the whisper API. My concept has solidified into its memoir state and spoken more to my experience to this point in my life while exercising some strong posthumanism motifs.
 
 # Goals & Aspirations
 

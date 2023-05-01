@@ -3,6 +3,7 @@ Words to be used for the basis of my work to reflect on the generative, coding n
 All of these were given by ChatGPT 
 
 ```Prompts
+Prompts: 
 - can you make me a list of all the words programmers use to talk about code that are also words related to children or child like things
 - what are some coding words that are related to teenagers?
 - what are some silly terms in coding
@@ -10,7 +11,6 @@ All of these were given by ChatGPT
 - code terms related to adulthood
 - coding terms related to humans and their current condition
 - hey chat can you find me some words that related to health and wellbeing for humans that programmers use to describe coding
-
 ```
 
 ## Childhood [madlibs/RiTa]
