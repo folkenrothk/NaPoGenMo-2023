@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# remixed from "I AM THAT I AM" by Nick Manafort, 2014
+# remixed from "I AM THAT I AM" by Nick Montfort, 2014
 
 import string
 
@@ -14,5 +14,5 @@ def permutate(elems):
 
 test_str = str(list(permutate('user'))).replace("'", '').replace(",",'').replace("]",'').replace("[",'')
 
-f = open("../../content/work001.txt", "x")
+f = open("../../content/work00.txt", "x")
 f.write(test_str)

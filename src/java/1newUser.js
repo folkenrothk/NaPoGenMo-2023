@@ -20,7 +20,7 @@ function soundItOut(str) {
     return wordSounds;
 }
 
-fs.writeFile("../../content/work004.txt", soundItOut(text), function(err) {
+fs.writeFile("../../content/work00.txt", soundItOut(text), function(err) {
     if(err) {
         return console.log(err);
     }

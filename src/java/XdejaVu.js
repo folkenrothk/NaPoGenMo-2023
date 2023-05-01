@@ -21,7 +21,7 @@ loadFile("deja/stairwell.txt");
 
 sentences = markov.generate(23);
 
-fs.writeFile("../../content/work023.txt", sentences.join(' '), function(err) {
+fs.writeFile("../../content/work000.txt", sentences.join(' '), function(err) {
     if(err) {
         return console.log(err);
     }

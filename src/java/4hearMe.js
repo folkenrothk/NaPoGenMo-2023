@@ -15,7 +15,7 @@ loadFile("markov/kitchen.txt");
 
 sentences = markov.generate(8);
 
-fs.writeFile("../../content/work016.txt", sentences.join(' '), function(err) {
+fs.writeFile("../../content/work00.txt", sentences.join(' '), function(err) {
     if(err) {
         return console.log(err);
     }

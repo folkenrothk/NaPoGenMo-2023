@@ -1,4 +1,6 @@
-# DALLE 2 [files now saved off repo]
+# DALLE 2 
+
+_[all files repo](https://drive.google.com/drive/folders/1F9R1OIO3vfNKm2INxhtAuEOEgld3dZY6?usp=sharing)_
 
 ## Title Cover
 - title cover black and white transitions

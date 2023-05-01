@@ -17,7 +17,7 @@ while (n > 0){
     n -= 1;
 }
 
-fs.writeFile("../../content/work0.txt", text, function(err) {
+fs.writeFile("../../content/work00.txt", text, function(err) {
     if(err) {
         return console.log(err);
     }

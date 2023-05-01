@@ -16,7 +16,7 @@ loadFile("markov/ghosts.txt");
 
 sentences = markov.generate(22);
 
-fs.writeFile("../../content/work010.txt", sentences.join(' '), function(err) {
+fs.writeFile("../../content/work00.txt", sentences.join(' '), function(err) {
     if(err) {
         return console.log(err);
     }
