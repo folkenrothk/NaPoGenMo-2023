@@ -11,7 +11,9 @@
 
   A computationally generated memoir for exploring themes of youth and growing up. This reflects a vague tension between human maturity and technological development.
 
-  Inspired by many works, I bring this piece into the conversation of computationally created works as well as traditionally recognized poetry. I especially want to articulate the inspiration from `"#!" by Nick Montfort`, `"Travesty Generator" by Lillian-Yvonne Bertram`, `"Technelegy" - Sasha Stiles`, and `"You'll Come Back to Yourself" by Michaela Angemeer` .
+  Inspired by many works, I bring this piece into the conversation of computationally created works as well as traditionally recognized poetry. I especially want to articulate the inspiration from `"#!" by Nick Montfort`, `"Travesty Generator" by Lillian-Yvonne Bertram`, `"Technelegy" - Sasha Stiles`, and `"You'll Come Back to Yourself" by Michaela Angemeer`.
+
+  
 
 ## File Structure
 
